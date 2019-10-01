@@ -1,6 +1,8 @@
 
 # CyAN
 
+Patrick Eslick, Robyn Conmy, Ariel Donovan, Jennifer Graham, Jennifer Lanning-Rush, Keith Loftin, Wilson Salls, Blake Schaeffer, Bridget Seeger, Richard Stumpf, Jeremy Werdell
+
 This package provides a set of tools for working with the database developed for the [Cyanobacterial Assessment Network](https://www.epa.gov/water-research/cyanobacteria-assessment-network-cyan). CyAN is a cooperation between NASA, NOAA, EPA and USGS with the goal of detecting freshwater algal blooms early using satellite data.
 
 ## Installation
